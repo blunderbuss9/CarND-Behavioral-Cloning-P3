@@ -6,7 +6,7 @@ Overview
 ---
 Stewart Teaze's GitHub repository for Udacity Self-Driving Car Nanodegree Term1 Project3 - Behavioral Cloning
 
-This project trains a convolutional neural network to clone driving behavior. The model is trained, validated and tested using Keras. The model will output a steering angle to an autonomous vehicle, operating with a Simulated driving environment.  Image data and steering angles are used to train a neural network model; this model is then used to drive the car autonomously around the track.
+This project trains a convolutional neural network model to clone driving behavior. The model is trained, validated and tested by invoking Keras high-level neural networks API functions. The model will output a steering angle to an autonomous vehicle, operating with a Simulated driving environment.  Image data and steering angles are used to train the model (in the Simulator, operating in "Training Mode"), and this model is then used to drive the car autonomously around the track (in the Simulator, operating in "Autonomous Mode").
 
 To meet project specifications, this project submission includes these five required files: 
 * model.py (script used to create and train the model)

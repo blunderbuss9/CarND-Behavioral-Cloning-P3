@@ -30,7 +30,9 @@ The goals / steps of this project are the following:
 
 ## The Simulator
 
-The simulator can be downloaded from the classroom.
+The Udacity Driving Simulator can be downloaded from the Behavioral Cloning classroom lesson 2: Project Resources.
+
+Refer to the writeup_report.pdf file, and classroom lesson 3: Running the Simulator, for details on the usage and operation of the Udacity Simulator.
 
 ## Details About Files In This Directory
 

@@ -15,9 +15,10 @@ To meet project specifications, this project submission includes these five requ
 * writeup_report.pdf
 * video.mp4 (a video recording of the vehicle driving autonomously around the track for one full lap)
 
-This project submission also includes the following directories of baseline (center) and "recovery" driving image recordings:
-* IMG (baseline/centered driving image recordings, of about 8000 sample images)
-* run7 ("General" recovery sequence recordings from various off-center situations, about 250 images)
+This project submission also includes the following directories of baseline (center) and "recovery" driving image/steering-command
+recordings:
+* IMG (baseline/centered driving image/steering-command recordings, of about 8000 sample images/steering-commands)
+* run7 ("General" recovery sequence recordings from various off-center situations, about 250 images/commands)
 * run12 ("Specific" recovery sequence recording of getting too-close to right edge in treacherous/most-onerous "brown curve")
 
 This project submission also includes these .csv files; the first three are are associated with, and reference the contents of,

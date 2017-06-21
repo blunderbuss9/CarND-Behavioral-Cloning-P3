@@ -15,14 +15,16 @@ To meet project specifications, this project submission includes these five requ
 * writeup_report.pdf
 * video.mp4 (a video recording of the vehicle driving autonomously around the track for one full lap)
 
-This project submission also includes the following directories of baseline (center) and "recovery" driving image/steering-command
-recordings:
+This project development utilized the following directories of baseline (center) and "recovery" driving image/steering-command
+recordings; however, these directories/files are specifically not included in the repository, as they would exceed the size of the
+github repository limit, and we were specifically instructed not to include these files in the project submission.
 * IMG (baseline/centered driving image/steering-command recordings, of about 8000 sample images/steering-commands)
 * run7 ("General" recovery sequence recordings from various off-center situations, about 250 images/commands)
 * run12 ("Specific" recovery sequence recording of getting too-close to right edge in treacherous/most-onerous "brown curve")
 
-This project submission also includes these .csv files; the first three are are associated with, and reference the contents of,
-the 3 image recording directories above - the last, is built by including the contents of all three of the first .csv files:
+This project's repository does include the following .csv files; the first three are associated with, and reference the contents of,
+the 3 image recording directories discussed above - the last file, newlog.csv, is built by including the contents of all three of the
+first .csv files listed below, and is the file referenced in the project's model.py source code:
 * driving_log.csv
 * run7.csv
 * run12.csv

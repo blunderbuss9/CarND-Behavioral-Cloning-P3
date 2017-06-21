@@ -15,6 +15,11 @@ To meet project specifications, this project submission includes these five requ
 * writeup_report.pdf
 * video.mp4 (a video recording of the vehicle driving autonomously around the track for one full lap)
 
+This project submission also includes the following directories of baseline (center) and "recovery" driving image recordings:
+* IMG (baseline/centered driving image recordings, of about 8000 sample images)
+* run7 ("General" recovery sequence recordings from various off-center situations, about 250 images)
+* run12 ("Specific" recovery sequence recording of getting too-close to right edge in treacherous/most-onerous "brown curve")
+
 The Project
 ---
 The goals / steps of this project are the following:
@@ -43,8 +48,6 @@ python drive.py model.h5
 ```
 
 The above command will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
-
-Note: There is known local system's setting issue with replacing "," with "." when using drive.py. When this happens it can make predicted steering values clipped to max/min values. If this occurs, a known fix for this is to add "export LANG=en_US.utf8" to the bashrc file.
 
 #### Saving a video of the autonomous agent
 

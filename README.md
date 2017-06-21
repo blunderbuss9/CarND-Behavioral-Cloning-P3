@@ -34,7 +34,7 @@ The Udacity Driving Simulator can be downloaded from the Behavioral Cloning clas
 
 Refer to the writeup_report.pdf file, and classroom lesson 3: Running the Simulator, for details on the usage and operation of the Udacity Simulator.
 
-## Details About Files In This Directory
+## Details About the Usage of the Udacity-Provided Project Support Python Scripts drive.py and video.py
 
 ### `drive.py`
 

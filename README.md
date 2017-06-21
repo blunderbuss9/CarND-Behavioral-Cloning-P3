@@ -20,6 +20,13 @@ This project submission also includes the following directories of baseline (cen
 * run7 ("General" recovery sequence recordings from various off-center situations, about 250 images)
 * run12 ("Specific" recovery sequence recording of getting too-close to right edge in treacherous/most-onerous "brown curve")
 
+This project submission also includes these .csv files; the first three are are associated with, and reference the contents of,
+the 3 image recording directories above - the last, is built by including the contents of all three of the first .csv files:
+* driving_log.csv
+* run7.csv
+* run12.csv
+* newlog.csv
+
 The Project
 ---
 The goals / steps of this project are the following:
